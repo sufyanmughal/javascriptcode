@@ -1,1 +1,1 @@
-console.log('sufyan is now developing hybrid system')
+console.log('sufyan is now developing system')
